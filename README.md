@@ -1,4 +1,4 @@
-[![MasterHead](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1431923632)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <h1 align="center">Hi 👋, I'm Reuben Dominic</h1>
 <h3 align="center">An aspiring frontend developer from Philippines</h3>

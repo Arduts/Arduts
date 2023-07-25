@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reuben Dominic</h1>
 <h3 align="center">An aspiring frontend developer from Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arduts" alt="arduts" /></a> </p>
-
 - 🌱 I’m currently learning **Front end tools**
 
 - 📫 How to reach me **reuben.palabasan@gmail.com**

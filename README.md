@@ -1,4 +1,4 @@
-<img align="center" alt="coding widht"400" src="https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1431923632">
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Reuben Dominic</h1>
 <h3 align="center">An aspiring frontend developer from Philippines</h3>

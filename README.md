@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))
+[![MasterHead](https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=1431923632)
 
 <h1 align="center">Hi 👋, I'm Reuben Dominic</h1>
 <h3 align="center">An aspiring frontend developer from Philippines</h3>

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reuben Dominic</h1>
 <h3 align="center">An aspiring frontend developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Front end tools**
+- 🌱 I’m currently learning **Web Technology**
 
 - 📫 How to reach me **reuben.palabasan@gmail.com**
 

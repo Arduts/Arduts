@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **reuben.palabasan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DfGh0IfJ0yxv1NMjMZLoY26xCDFCt0VN/view](https://drive.google.com/file/d/1DfGh0IfJ0yxv1NMjMZLoY26xCDFCt0VN/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DfGh0IfJ0yxv1NMjMZLoY26xCDFCt0VN/view](https://drive.google.com/file/d/1DfGh0IfJ0yxv1NMjMZLoY26xCDFCt0VN/view](https://drive.google.com/file/d/1tELnlWLdR7ULt3tuPa6MVGBpzz1n1z1k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
